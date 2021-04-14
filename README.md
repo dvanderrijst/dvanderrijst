@@ -2,11 +2,11 @@
 
 Summary using the ABM Scraping Script
 
-`ls` show list of directory you are in
-`mkdir {Name_of_new_directory}` make a new directory
-`cd {Name_of_Directory}` open a directory 
-`cd ..` go a directory back 
-`open {name_file}` open a file
+`ls` show list of directory you are in. 
+`mkdir {Name_of_new_directory}` make a new directory. 
+`cd {Name_of_Directory}` open a directory   
+`cd ..` go a directory back.  
+`open {name_file}` open a file. 
 `cat {name_file}` concatenate files and redirect output in terminal
 `git add .` adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit
 `git commit -m "{name of what you did}"`give push a name
