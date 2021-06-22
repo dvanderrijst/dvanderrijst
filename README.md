@@ -13,7 +13,7 @@ Summary using the ABM Scraping Script
 `git push` push it back on github.  
 `git clone {url_github}` get a clone of the codes on github.(Password here is found on Github/Settings/Developer settings/Personal Access tokens) This will be downloaded in the current directory.  
 `tail -f` displays the last ten lines of the file and monitors the file for any new changes (live).  
-
+`more {name file}` shows txt of the file in terminal output
 
 `{package} install -r requirements.txt` installing a package as pip3.   
 `{language} -m spacy download en_core_web_sm` installing a language as python.  
