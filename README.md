@@ -25,4 +25,19 @@ these packages are now locally downloaded in scripts.
 
 ctr c - stop code from running.  
 
+##Setting up the macbook
+
+Install VS Code on App Store 
+
+Install homebrew on https://brew.sh/#install in the terminal
+
+Install python
+$`brew install python`
+
+Install pip
+`sudo easy_install pip`
+
+When matching Github to terminal, create a personal access token on https://github.com/settings/tokens
+With clone, you fill in username and this token in stead of password.
+
 
