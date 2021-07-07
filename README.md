@@ -25,7 +25,7 @@ these packages are now locally downloaded in scripts.
 
 ctr c - stop code from running.  
 
-##Setting up the macbook
+###Setting up the macbook
 
 Install VS Code on App Store 
 
