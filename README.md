@@ -30,6 +30,12 @@ these packages are now locally downloaded in scripts.
 `git config --global --list` show --global.  
 
 
+adding `/` in front, it send you through the repo from the beginning `/img/donna.jpg`
+not addind `/` lets you stay where you are `img/donna.jpg`
+adding `../` let you take a step back : `../../img/donna.jpg`
+
+
+
 ctr c - stop code from running.  
 
 ### Setting up the macbook
