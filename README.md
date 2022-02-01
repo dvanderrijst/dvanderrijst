@@ -1,13 +1,19 @@
 ### Hi there 👋
 
-Summary using the ABM Scraping Script
+Donna getting started with github
 
 `ls` show list of directory you are in.   
 `mkdir {Name_of_new_directory}` make a new directory.   
 `cd {Name_of_Directory}` open a directory.     
 `cd ..` go a directory back.    
 `open {name_file}` open a file.   
-`cat {name_file}` concatenate files and redirect output in terminal.  
+`cat {name_file}` concatenate files and redirect output in terminal. 
+
+`git status` before adding to see what you have changed
+`git branch` to see what branch you are in
+`git checkout donna-website` to go to the branch donna-website
+`git fetch` retrieve information about the branch/repo/etc from github
+
 `git add .` adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit.   
 `git commit -m "{name of what you did}"`give push a name.     
 `git push` push it back on github.  
@@ -22,6 +28,7 @@ these packages are now locally downloaded in scripts.
 `git config --global user.name "{github username}"` configer in the --global the username.  
 `git config --global user.email "{github emailadress}"` configer in the --global the email.  
 `git config --global --list` show --global.  
+
 
 ctr c - stop code from running.  
 
