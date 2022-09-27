@@ -21,6 +21,7 @@ Donna getting started with github
 `open {name_file}` open a file.   
 `cat {name_file}` concatenate files and redirect output in terminal. 
 
+`git pull` to see if there are updates.
 `git status` before adding to see what you have changed
 `git branch` to see what branch you are in
 `git checkout donna-website` to go to the branch donna-website
